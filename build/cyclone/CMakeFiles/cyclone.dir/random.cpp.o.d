@@ -1,5 +1,5 @@
 cyclone/CMakeFiles/cyclone.dir/random.cpp.o: \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/random.cpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/random.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdlib \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
@@ -81,8 +81,8 @@ cyclone/CMakeFiles/cyclone.dir/random.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_clock_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_timespec.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/random.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/core.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/random.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/core.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/enable_if.h \
@@ -222,7 +222,7 @@ cyclone/CMakeFiles/cyclone.dir/random.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__functional/invoke.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/type_identity.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__type_traits/unwrap_ref.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/precision.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/precision.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/float.h

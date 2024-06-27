@@ -54,10 +54,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.8/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project
+CMAKE_SOURCE_DIR = /Users/perrychouteau/Documents/GitHub/BoatGame
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build
+CMAKE_BINARY_DIR = /Users/perrychouteau/Documents/GitHub/BoatGame/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -98,14 +98,14 @@ cyclone/clean: cyclone/CMakeFiles/cyclone.dir/clean
 CMakeFiles/boat.dir/all: cyclone/CMakeFiles/cyclone.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boat.dir/build.make CMakeFiles/boat.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boat.dir/build.make CMakeFiles/boat.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles --progress-num=1,2,3 "Built target boat"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles --progress-num=1,2,3 "Built target boat"
 .PHONY : CMakeFiles/boat.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boat.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles 18
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boat.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles 0
 .PHONY : CMakeFiles/boat.dir/rule
 
 # Convenience name for target.
@@ -124,14 +124,14 @@ CMakeFiles/boat.dir/clean:
 cyclone/CMakeFiles/cyclone.dir/all:
 	$(MAKE) $(MAKESILENT) -f cyclone/CMakeFiles/cyclone.dir/build.make cyclone/CMakeFiles/cyclone.dir/depend
 	$(MAKE) $(MAKESILENT) -f cyclone/CMakeFiles/cyclone.dir/build.make cyclone/CMakeFiles/cyclone.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 "Built target cyclone"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 "Built target cyclone"
 .PHONY : cyclone/CMakeFiles/cyclone.dir/all
 
 # Build rule for subdir invocation for target.
 cyclone/CMakeFiles/cyclone.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles 15
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cyclone/CMakeFiles/cyclone.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles 0
 .PHONY : cyclone/CMakeFiles/cyclone.dir/rule
 
 # Convenience name for target.

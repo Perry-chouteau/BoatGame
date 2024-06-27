@@ -1,9 +1,9 @@
 cyclone/CMakeFiles/cyclone.dir/collide_fine.cpp.o: \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/collide_fine.cpp \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/collide_fine.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/contacts.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/body.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/core.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/collide_fine.cpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/collide_fine.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/contacts.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/body.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/core.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config_site \
@@ -218,7 +218,7 @@ cyclone/CMakeFiles/cyclone.dir/collide_fine.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_ptrcheck.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/precision.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/precision.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/float.h \

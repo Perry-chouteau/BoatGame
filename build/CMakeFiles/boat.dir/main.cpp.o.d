@@ -1,7 +1,7 @@
 CMakeFiles/boat.dir/main.cpp.o: \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/main.cpp \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/./Window.hpp \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/./ogl_headers.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/main.cpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/./Window.hpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/./ogl_headers.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGLAvailability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/os/availability.h \
@@ -41,7 +41,7 @@ CMakeFiles/boat.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_uintmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/./timing.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/./timing.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -833,18 +833,18 @@ CMakeFiles/boat.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdarg \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/cyclone.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/precision.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/cyclone.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/precision.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/float.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/core.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/random.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/particle.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/body.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/pcontacts.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/pworld.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/pfgen.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/core.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/random.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/particle.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/body.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/pcontacts.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/pworld.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/pfgen.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__format/formatter.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__format/format_fwd.h \
@@ -871,10 +871,10 @@ CMakeFiles/boat.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/array \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/plinks.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/collide_fine.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/contacts.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/fgen.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/joints.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/./Canon.hpp \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/./Box.hpp
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/plinks.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/collide_fine.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/contacts.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/fgen.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/joints.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/./Canon.hpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/./Box.hpp

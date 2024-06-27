@@ -1,6 +1,6 @@
 CMakeFiles/boat.dir/timing.cpp.o: \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/timing.cpp \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/./timing.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/timing.cpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/./timing.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/stdlib.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__config_site \

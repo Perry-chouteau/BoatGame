@@ -1,6 +1,6 @@
 cyclone/CMakeFiles/cyclone.dir/collide_coarse.cpp.o: \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/collide_coarse.cpp \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/collide_coarse.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/collide_coarse.cpp \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/collide_coarse.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/copy.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h \
@@ -846,10 +846,10 @@ cyclone/CMakeFiles/cyclone.dir/collide_coarse.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/contacts.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/body.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/core.h \
-  /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/include/precision.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/contacts.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/body.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/core.h \
+  /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/include/precision.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/float.h

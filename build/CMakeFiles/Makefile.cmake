@@ -7,11 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/CMakeLists.txt"
+  "/Users/perrychouteau/Documents/GitHub/BoatGame/CMakeLists.txt"
   "CMakeFiles/3.27.8/CMakeCCompiler.cmake"
   "CMakeFiles/3.27.8/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.27.8/CMakeSystem.cmake"
-  "/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone/CMakeLists.txt"
+  "/Users/perrychouteau/Documents/GitHub/BoatGame/cyclone/CMakeLists.txt"
   "/opt/homebrew/Cellar/cmake/3.27.8/share/cmake/Modules/CMakeCCompiler.cmake.in"
   "/opt/homebrew/Cellar/cmake/3.27.8/share/cmake/Modules/CMakeCCompilerABI.c"
   "/opt/homebrew/Cellar/cmake/3.27.8/share/cmake/Modules/CMakeCInformation.cmake"

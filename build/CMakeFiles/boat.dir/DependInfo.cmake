@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/main.cpp" "CMakeFiles/boat.dir/main.cpp.o" "gcc" "CMakeFiles/boat.dir/main.cpp.o.d"
-  "/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/timing.cpp" "CMakeFiles/boat.dir/timing.cpp.o" "gcc" "CMakeFiles/boat.dir/timing.cpp.o.d"
+  "/Users/perrychouteau/Documents/GitHub/BoatGame/main.cpp" "CMakeFiles/boat.dir/main.cpp.o" "gcc" "CMakeFiles/boat.dir/main.cpp.o.d"
+  "/Users/perrychouteau/Documents/GitHub/BoatGame/timing.cpp" "CMakeFiles/boat.dir/timing.cpp.o" "gcc" "CMakeFiles/boat.dir/timing.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

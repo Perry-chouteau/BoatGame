@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.8/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project
+CMAKE_SOURCE_DIR = /Users/perrychouteau/Documents/GitHub/BoatGame
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build
+CMAKE_BINARY_DIR = /Users/perrychouteau/Documents/GitHub/BoatGame/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/boat.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/boat.dir/progress.make
 include CMakeFiles/boat.dir/flags.make
 
 CMakeFiles/boat.dir/main.cpp.o: CMakeFiles/boat.dir/flags.make
-CMakeFiles/boat.dir/main.cpp.o: /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/main.cpp
+CMakeFiles/boat.dir/main.cpp.o: /Users/perrychouteau/Documents/GitHub/BoatGame/main.cpp
 CMakeFiles/boat.dir/main.cpp.o: CMakeFiles/boat.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/boat.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boat.dir/main.cpp.o -MF CMakeFiles/boat.dir/main.cpp.o.d -o CMakeFiles/boat.dir/main.cpp.o -c /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/boat.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boat.dir/main.cpp.o -MF CMakeFiles/boat.dir/main.cpp.o.d -o CMakeFiles/boat.dir/main.cpp.o -c /Users/perrychouteau/Documents/GitHub/BoatGame/main.cpp
 
 CMakeFiles/boat.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/boat.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/main.cpp > CMakeFiles/boat.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/perrychouteau/Documents/GitHub/BoatGame/main.cpp > CMakeFiles/boat.dir/main.cpp.i
 
 CMakeFiles/boat.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/boat.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/main.cpp -o CMakeFiles/boat.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/perrychouteau/Documents/GitHub/BoatGame/main.cpp -o CMakeFiles/boat.dir/main.cpp.s
 
 CMakeFiles/boat.dir/timing.cpp.o: CMakeFiles/boat.dir/flags.make
-CMakeFiles/boat.dir/timing.cpp.o: /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/timing.cpp
+CMakeFiles/boat.dir/timing.cpp.o: /Users/perrychouteau/Documents/GitHub/BoatGame/timing.cpp
 CMakeFiles/boat.dir/timing.cpp.o: CMakeFiles/boat.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/boat.dir/timing.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boat.dir/timing.cpp.o -MF CMakeFiles/boat.dir/timing.cpp.o.d -o CMakeFiles/boat.dir/timing.cpp.o -c /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/timing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/boat.dir/timing.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boat.dir/timing.cpp.o -MF CMakeFiles/boat.dir/timing.cpp.o.d -o CMakeFiles/boat.dir/timing.cpp.o -c /Users/perrychouteau/Documents/GitHub/BoatGame/timing.cpp
 
 CMakeFiles/boat.dir/timing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/boat.dir/timing.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/timing.cpp > CMakeFiles/boat.dir/timing.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/perrychouteau/Documents/GitHub/BoatGame/timing.cpp > CMakeFiles/boat.dir/timing.cpp.i
 
 CMakeFiles/boat.dir/timing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/boat.dir/timing.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/timing.cpp -o CMakeFiles/boat.dir/timing.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/perrychouteau/Documents/GitHub/BoatGame/timing.cpp -o CMakeFiles/boat.dir/timing.cpp.s
 
 # Object files for target boat
 boat_OBJECTS = \
@@ -113,7 +113,7 @@ boat: /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Fra
 boat: /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa.tbd
 boat: /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL.tbd
 boat: CMakeFiles/boat.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable boat"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable boat"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/boat.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -125,6 +125,6 @@ CMakeFiles/boat.dir/clean:
 .PHONY : CMakeFiles/boat.dir/clean
 
 CMakeFiles/boat.dir/depend:
-	cd /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/build/CMakeFiles/boat.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/perrychouteau/Documents/GitHub/BoatGame/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/perrychouteau/Documents/GitHub/BoatGame /Users/perrychouteau/Documents/GitHub/BoatGame /Users/perrychouteau/Documents/GitHub/BoatGame/build /Users/perrychouteau/Documents/GitHub/BoatGame/build /Users/perrychouteau/Documents/GitHub/BoatGame/build/CMakeFiles/boat.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/boat.dir/depend
 

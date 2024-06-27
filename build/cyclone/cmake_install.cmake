@@ -1,4 +1,4 @@
-# Install script for directory: /Users/perrychouteau/Documents/GitHub/CyclonePhysics/project/cyclone
+# Install script for directory: /Users/perrychouteau/Documents/GitHub/BoatGame/cyclone
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
